@@ -1,0 +1,6 @@
+# Environment variables
+.env
+
+# Docker volumes
+postgres-data/
+n8n-data/
